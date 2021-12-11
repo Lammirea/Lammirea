@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding,DL, music and art.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ardalin.sun@mail.ru
+- 📫 You can reach me ardalin.sun@mail.ru
 
 <!---
 Lammirea/Lammirea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
