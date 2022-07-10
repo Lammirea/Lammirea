@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me ardalin.sun@mail.ru
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia&show_icons=true)
 
 <!---
 Lammirea/Lammirea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
