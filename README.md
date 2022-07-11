@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me ardalin.sun@mail.ru
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lammirea&langs_count=8)](https://github.com/Lammirea/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lammirea&langs_count=8&theme=material-palenight)](https://github.com/Lammirea/github-readme-stats)
 
 ![Lammirea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lammirea&theme=material-palenight&show_icons=true)
 
